@@ -48,8 +48,8 @@
                                     <action selector="BotonConversor:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dkr-uu-bqa"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="El valor en millas es:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8no-TW-JuX">
-                                <rect key="frame" x="16" y="243" width="343" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="El valor en Kilometros es:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8no-TW-JuX">
+                                <rect key="frame" x="16" y="243" width="343" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.55707465277777779" green="0.47403971354166669" blue="0.26836480034722221" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
